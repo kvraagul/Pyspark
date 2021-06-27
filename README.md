@@ -6,6 +6,8 @@
 
 * In addition, PySpark, helps you interface with Resilient Distributed Datasets (RDDs) in Apache Spark and Python programming language.
 
+# Pyspark Sql
+
 # Pyspark Tutorial 1
 
 * Installation
