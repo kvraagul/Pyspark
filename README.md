@@ -8,6 +8,10 @@
 
 # Pyspark Sql
 
+* PySpark SQL is a module in Spark which integrates relational processing with Spark's functional programming API. 
+
+* We can extract the data by using an SQL query language. We can use the queries same as the SQL language.
+
 # Pyspark Tutorial 1
 
 * Installation
